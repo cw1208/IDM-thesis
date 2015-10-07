@@ -1,0 +1,43 @@
+Wu, Celine
+Duff
+Fall 2015
+DM 997X MS Thesis In Digital Media
+7/Oct/2015
+
+Pluff Thesis: Body, Draft 2
+
+(Notes to self for future drafts in parenthesis)
+THE STORY
+Many of my fondest memories are of the time I spent playing and bonding with my large collection of plush toys.  I had cat plushes the size of keychain dongles and a dragon pillow plush as big as I was at eight years old.  Where people were unreliable and inconsistent, my plush friends were my allies in any fight and were a source of comfort no matter what else was happening in my life.  At night, when the Under Bed Monsters were after me, I would tuck my feet under the blankets and sandwich myself between my biggest plushes knowing that they would protect me from anything that dared come after me. I developed an interest in anime, geek conventions, and convention culture.  An important part of anime convention culture is the plush toy market.  Conventions are about people of all walks of life coming together to celebrate the same passion. At conventions, it seems like you cannot take a picture of the crowd without finding one plush toy for every four people.  The plush is an addition to a collection but also a visual declaration of your interests.  Personally, my interest in anime conventions renewed my interest in plush toys because it added a new facet to collecting plush toys – not only were they loyal friends, but they were also a way of aligning myself with particular fandoms and showing off a large part of what makes up my values, history, and personality.
+
+As I got older, I whittled my “active” plush collection down to one or two plushes at a time and tucked the rest away in a closet, but with life-defining changes come a need for an equal amount of familiarity and comfort to help ease the way through those changes.  One of the biggest change for me was going to college.  College is a tumultuous time of meeting lots of new people, moving house and changing your daily routine every four to nine months.  For many students, college is their first time away from home.  As such, many students will bring their favorite sweatshirt, teddy bear, or comforter for the emotional support of having something familiar nearby.  These are security objects and they create an emotional safety net to help a person deal with challenges that might otherwise seem overwhelming.
+
+RESEARCH
+Bonding video games are everywhere, especially now that the Android/Google Play mobile app store is so widely used and is open to small developers.  One of the classics that made this small app games so prevalent is the popularity of the Tamagotchi in the 90s.  (Reference and statistic here).  This palm-sized device had only three buttons and was small enough to be carried with the user at all times, even on a keychain.  The objective was to successfully feed, clean, and play with your Tamagotchi, mimicking the basic requirements for caring for a real pet.  
+
+Despite its pixelated black and white appearance and electronic beeps in lieu of a voice, the Tamagotchi was a pet.  Bonding does not have to be with a sentient party, and the emotion does not have to be returned by the recipient.  Digital bonding games like Tamagotchi and physical objects like plush toys achieve their goal without ever returning or being able to return sentiment. Part of what makes them so successful is that they are specifically designed to be easy and simple to interact with, designed to give instant positive reinforcement for the user’s positive actions, and designed to be somewhat generic which allows a user to give the Tamagotchi or plush toy a personality and story of their creation.
+
+(Fisher-Price Smart Toy – Square teddy bear.  Creepy look, unsettling that it updates automatically.  Dogs for the Nintendo DS meets Furby, but more technologically advanced with an articulate voice, voice recognition, and Smart Cards.)
+
+(CuddleBot – stroke sensor toy developed at the University of British Columbia.  Stroke and pressure sensors on a Styrofoam shape.  Hedgehog?  Close to my project, but more focused on hardware than plush and bonding.)
+
+DESIGN
+(Explain final sketches, circuit drawings, process pictures?, and schematics with references to Appendices.  Physical blueprint for the Gold version and “site map” of the game)
+
+RESOURCES
+- Kaho Abe – Artist-in-Residence, NYU Game Innovation Lab, internal thesis advisor.  http://kahoabe.net/
+- Terry Murphy – audio and electrical engineer, Sony consultant.
+- Adafruit Industries – Arduino and general circuiting components and kits. https://www.adafruit.com/
+- Michaels Arts and Crafts stores – felt, foam, buttons, thread, cotton, and Sherpa. http://www.michaels.com/
+
+ITERATIONS
+The initial concept of Pluff was a plush game controller for the rhythm game Dance Dance Revolution or its open source variant In The Groove.  The three current controller options are the soft pad at home, arcade cabinets at gaming arcades, or a keyboard for the desktop version of the game.  The focus of the thesis project was optimizing the hardware design so that casual players could have an alternative controller for parties that doubled as a washable plush toy.  Like anime plush toys, the controller would be a token of the game that the user could bond through their love of the game and as a safety object plush toy.  Additionally, the controller would have a practical use to allow the user to continue to engage with the original source of passion, the game.
+
+The next iteration replaced the ITG game component with a small plush-themed game.  I drew the focus away from the hardware and more toward figuring out why people love plush objects.  In this stage, I discovered more research about security objects and studies specifically citing the use of animal plush toys over blankets or sweatshirts.  
+The video game portion of this iteration had two modes: Mode B to show the user and Pluff’s bonding score and Mode T to test the strength of the bond.  Mode B is like the game Cookie Clicker (cite but no need for more explanation), where the objective is to click as many times as possible.  To preserve the idea of bonding, instead of spasmodically hugging Pluff, the user gets double points added for extended hugs up to some limit when the user has to let go to continue adding points.  This served to limit the number of points from accidental presses and as an anti-abuse feature to discourage suffocating the plush.  Mode T was a single path dungeon.  The avatar walks the dungeon automatically, encountering enemies along the way.  There is no measure of how strong the enemy is compared to the avatar.  The user can watch, or give the plush a hug “in battle” to give it a small boost in bonding power.  If the avatar fails to defeat the enemy, the user is sent back to Mode B to build a stronger bond.
+
+The current iteration is centered more around the nature of bonding and how plush toys as security objects help establish an emotional safety net.  The video game portion persists, but instead of numerical scores that become excessively large and meaningless over time, the video game gives a more abstract measure of the user’s bond with Pluff.
+
+USER TESTING
+The first user test was not a formal test.  Instead I accidentally got feedback from a range of friends, coworkers, and family when I brought out the uncut Sherpa fur fabric I used to make the shell.  The almost universal reaction was to hug the bundle of fur or rub it against one’s face.  The secondary reaction was to ask for permission to touch the fur, after the fact.  I took that as great feedback that I was using the right fabric for the shell.
+
